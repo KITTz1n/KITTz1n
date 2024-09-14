@@ -14,6 +14,6 @@
 ### Linguagens que estudo 📖
 
 <div style="display: inline_block">
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/PYTHON-090C0E?style=for-the-badge&logo=python&logoColor=3776AB"/> 
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/SHARP-090C0E?style=for-the-badge&logo=C&logoColor=AF69CD"/> 
+  <img aling="center" alt="html5" src="https://img.shields.io/badge/PYTHON-0d1318?style=for-the-badge&logo=python&logoColor=3776AB"/> 
+  <img aling="center" alt="html5" src="https://img.shields.io/badge/SHARP-0d1318?style=for-the-badge&logo=C&logoColor=AF69CD"/> 
 </div>
