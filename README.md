@@ -14,8 +14,8 @@
 ### Linguagens que estudo 📖
 
 <div style="display: inline_block"><br/>
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/PYTHON-2B2728?style=for-the-badge&logo=python&logoColor=3776AB"/> 
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/SHARP-2B2728?style=for-the-badge&logo=C&logoColor=AF69CD"/> 
+  <img aling="center" alt="html5" src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/> 
+  <img aling="center" alt="html5" src="https://img.shields.io/badge/SHARP-0D1117?style=for-the-badge&logo=C&logoColor=AF69CD"/> 
 </div> <br/>
 
 Um Dev em busca conhecimento.
