@@ -19,9 +19,9 @@
 ### Linguagens que estudo <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="28">
 
 <div style="display: inline_block"><br/>
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/> 
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/SHARP-0D1117?style=for-the-badge&logo=C&logoColor=AF69CD"/>
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=EFD81D"/> 
+  <a href="https://www.python.org"> <img aling="center" alt="html5" src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/> </a>
+  <a href="https://dotnet.microsoft.com/pt-br/download/dotnet/8.0"> <img aling="center" alt="html5" src="https://img.shields.io/badge/SHARP-0D1117?style=for-the-badge&logo=C&logoColor=AF69CD"/> </a>
+  <a href="https://code.visualstudio.com/docs/languages/html"> <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/> </a>
+  <a href="https://code.visualstudio.com/docs/languages/css"> <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/> </a>
+  <a href="https://code.visualstudio.com/docs/languages/javascript"> <img aling="center" alt="js" src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=EFD81D"/> </a>
 </div> <br/>
