@@ -14,7 +14,7 @@
 
 ### Estatísticas <img src="https://github.com/user-attachments/assets/d69da7fa-5a46-47e9-938a-30074535aa8e" width="28">
 
-![KITTz1n GitHub stats](https://github-readme-stats.vercel.app/api?username=KITTz1n&show_icons=true&theme=tokyonight)
+![](https://github-widgetbox.vercel.app/api/profile?username=kittz1n&data=followers,repositories,stars,commits&theme=nautilus)
 
 ### Linguagens que estudo <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="28">
 
