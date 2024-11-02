@@ -74,3 +74,5 @@
 </picture>
 
 ###
+
+<img aling="center" alt="life" src="https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif">
