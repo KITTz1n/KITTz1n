@@ -1,4 +1,5 @@
-## <img src="https://github.com/user-attachments/assets/f612ad11-ac3d-4902-b429-cd654aa830a0" width="2%"/> Olá, eu sou o Wellington // <img src="https://github.com/user-attachments/assets/80d16575-39ac-4eea-afa4-6a82ac56d476" width="2%"/> Hi, I'm Wellington <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="30"/>
+<h2> <img src="https://github.com/user-attachments/assets/f612ad11-ac3d-4902-b429-cd654aa830a0" width="2%"/> Olá, eu sou o Wellington // <img src="https://github.com/user-attachments/assets/80d16575-39ac-4eea-afa4-6a82ac56d476" width="2%"/> Hi, I'm Wellington <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="30"/> </h2>
+
 
 ### Sobre mim // About me
 
@@ -8,20 +9,60 @@
 <li>Desde meus 8 anos queria ser programador. // Since I was 8 years old I wanted to be a programmer.
 </ul>
 
-<img src="https://github.com/user-attachments/assets/4dcd0176-fe96-4ab1-bf10-936d5f1ec1de" width="100"/>
+###
 
-### Estatísticas // Statistics <img src="https://github.com/user-attachments/assets/d69da7fa-5a46-47e9-938a-30074535aa8e" width="28">
+<div align="center">
+  <h3> Estatísticas // Statistics <img src="https://github.com/user-attachments/assets/d69da7fa-5a46-47e9-938a-30074535aa8e" width="28"> </h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=KITTz1n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KITTz1n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-![](https://github-widgetbox.vercel.app/api/profile?username=kittz1n&data=followers,repositories,stars,commits&theme=midnight)
+###
 
-### Linguagens // Languages <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="28">
+<div align="center">
+  <h3> Linguagens // Languages <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="28"> </h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-<div style="display: inline_block"><br/>
-  <a href="https://www.python.org"> <img aling="center" alt="html5" src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/> </a>
-  <a href="https://dotnet.microsoft.com/pt-br/download/dotnet/8.0"> <img aling="center" alt="html5" src="https://img.shields.io/badge/SHARP-0D1117?style=for-the-badge&logo=C&logoColor=AF69CD"/> </a>
-  <a href="https://code.visualstudio.com/docs/languages/html"> <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/> </a>
-  <a href="https://code.visualstudio.com/docs/languages/css"> <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/> </a>
-  <a href="https://code.visualstudio.com/docs/languages/javascript"> <img aling="center" alt="js" src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=EFD81D"/> </a>
-</div> <br/>
-<br/>
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@KITT-Dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/w3llingt0n_p3dr0s0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/kittz1n" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.gg/3z8VDxG5Ma" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/cute-cat-white-gif-25424939.gif"  />
+
+###
+
+<img align="left" height="160" src="https://media1.tenor.com/m/Y5bdzjEvcFIAAAAC/kitty-chase-pixel.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/KITTz1n/KITTz1n/output/snake.svg" alt="Snake animation" />
+
+###
+<br>
 <strong>Ingles feito pelo google tradutor // English made by Google Translate</strong>
