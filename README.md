@@ -59,16 +59,8 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/cute-cat-white-gif-25424939.gif"  />
-
-###
-
-<img align="left" height="150" src="https://media1.tenor.com/m/Y5bdzjEvcFIAAAAC/kitty-chase-pixel.gif"  />
-
-###
-
 <div align="center">
-  <strong>Ingles feito pelo google tradutor // English translated by Google Translate</strong>
+  <h3> Ingles feito pelo google tradutor // English translated by Google Translate, </h3>
 </div>
 
 ###
@@ -76,3 +68,8 @@
 <img aling="center" alt="life" src="https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif">
 
 ###
+
+<div align="center">
+  <h3> Thanks!</h3>
+  <img src="https://25.media.tumblr.com/6481a8ba70755abd8d181514b18ad1d9/tumblr_n0zhpoDq1e1ruc39mo1_500.gif" alt="s2" width="80px">
+</div>
