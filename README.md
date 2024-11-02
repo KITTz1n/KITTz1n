@@ -11,7 +11,7 @@
 
 ###
 
-<img aling="center" width="700px" alt="life" src="https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif">
+<img aling="center" width="680px" alt="life" src="https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif">
 
 ###
 
