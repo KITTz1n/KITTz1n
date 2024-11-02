@@ -58,11 +58,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KITTz1n/KITTz1n/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br>
+<div align="center">
 <strong>Ingles feito pelo google tradutor // English made by Google Translate</strong>
+</div>
