@@ -60,5 +60,5 @@
 
 <br>
 <div align="center">
-<strong>Ingles feito pelo google tradutor // English made by Google Translate</strong>
+<strong>Ingles feito pelo google tradutor // English translated by Google Translate</strong>
 </div>
