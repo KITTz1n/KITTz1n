@@ -50,11 +50,11 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/cute-cat-white-gif-25424939.gif"  />
+<img align="center" height="150" src="https://tenor.com/pt-BR/view/cute-cat-white-gif-25424939.gif"  />
 
 ###
 
-<img align="left" height="160" src="https://media1.tenor.com/m/Y5bdzjEvcFIAAAAC/kitty-chase-pixel.gif"  />
+<img align="center" height="150" src="https://media1.tenor.com/m/Y5bdzjEvcFIAAAAC/kitty-chase-pixel.gif"  />
 
 ###
 
