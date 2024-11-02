@@ -1,13 +1,14 @@
 <h2> <img src="https://github.com/user-attachments/assets/f612ad11-ac3d-4902-b429-cd654aa830a0" width="2%"/> Olá, eu sou o Wellington // <img src="https://github.com/user-attachments/assets/80d16575-39ac-4eea-afa4-6a82ac56d476" width="2%"/> Hi, I'm Wellington <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="30"/> </h2>
 
 
-### Sobre mim // About me
-
-<ul>
-<li>Um Dev em busca conhecimento. // A Dev in search of knowledge.
-<li>Tenho 15 anos. // I'm 15 years old.
-<li>Desde meus 8 anos queria ser programador. // Since I was 8 years old I wanted to be a programmer.
-</ul>
+<div align="center">
+  <h3> Sobre mim // About me </h3>
+  <ul>
+    <li>Um Dev em busca conhecimento. // A Dev in search of knowledge.
+    <li>Tenho 15 anos. // I'm 15 years old.
+    <li>Desde meus 8 anos queria ser programador. // Since I was 8 years old I wanted to be a programmer.
+  </ul>
+</div>
 
 ###
 
