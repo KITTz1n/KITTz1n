@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2> <img src="https://github.com/user-attachments/assets/f612ad11-ac3d-4902-b429-cd654aa830a0" width="2%"/> Olá, eu sou o Wellington // <img src="https://github.com/user-attachments/assets/80d16575-39ac-4eea-afa4-6a82ac56d476" width="2%"/> Hi, I'm Wellington <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="30"/> </h2>
+<h2 align="center"> <img src="https://github.com/user-attachments/assets/f612ad11-ac3d-4902-b429-cd654aa830a0" width="2%"/> Olá, eu sou o Wellington // <img src="https://github.com/user-attachments/assets/80d16575-39ac-4eea-afa4-6a82ac56d476" width="2%"/> Hi, I'm Wellington <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="30"/> </h2>
 
 ###
 
