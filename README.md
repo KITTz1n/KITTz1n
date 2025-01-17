@@ -62,7 +62,12 @@
 ###
 
 <div align="center">
-  <h3> Ingles feito pelo google tradutor // English translated by Google Translate, </h3>
+  <h3> Faço Freelancer Aqui // I work freelancer on here </h3>
+  <a href="https://br.fiverr.com/wellington_c_p/buying?source=avatar_menu_profile" target="_blank">
+    <img src="img.shields.io/badge/-Fiverr-2ba67a?logo=fiverr&logoColor=white&style=for-the-badge" height="35" alt="fiverr logo"  />
+  </a>
+  <br>
+  <h3> Ingles feito pelo google tradutor // English translated by Google Translate </h3>
 </div>
 
 ###
