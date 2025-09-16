@@ -7,7 +7,7 @@
 <h3> Sobre mim // About me </h3>
 <ul>
   <li>Um Dev em busca conhecimento. // A Dev in search of knowledge.
-  <li>Tenho 15 anos. // I'm 15 years old.
+  <li>Tenho 16 anos. // I'm 16 years old.
   <li>Desde meus 8 anos queria ser programador. // Since I was 8 years old I wanted to be a programmer.
 </ul>
 
