@@ -9,6 +9,8 @@
   <li>📖Um Dev em busca conhecimento. // A Dev in search of knowledge.
   <li>😁Tenho 16 anos. // I'm 16 years old.
   <li>🥉Medalhista regional de bronze na OISMF // Regional bronze medalist at OISMF
+  <li>🥉Medalhista regional de bronze na OIMC // Regional bronze medalist at OIMC
+  <li>🥉Medalhista regional de bronze na OBT // Regional bronze medalist at OBT
   <li>🥉Medalhista nacional de bronze na OISMF // Nacional bronze medalist at OISMF
   <li>😲Desde meus 8 anos queria ser programador. // Since I was 8 years old I wanted to be a programmer.
 </ul>
@@ -17,8 +19,6 @@
 
 <div align="center">
   <h3> Estatísticas // Statistics <img src="https://github.com/user-attachments/assets/d69da7fa-5a46-47e9-938a-30074535aa8e" width="28"> </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=KITTz1n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KITTz1n&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KITTz1n/KITTz1n/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KITTz1n/KITTz1n/output/github-contribution-grid-snake-dark.svg">
