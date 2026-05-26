@@ -7,7 +7,7 @@
 <h3> Sobre mim // About me </h3>
 <ul>
   <li>📖Um Dev em busca conhecimento. // A Dev in search of knowledge.
-  <li>😁Tenho 16 anos. // I'm 16 years old.
+  <li>😁Tenho 17 anos. // I'm 17 years old.
   <li>🥉Medalhista regional de bronze na OISMF 2025 // Regional bronze medalist at OISMF 2025
   <li>🥉Medalhista regional de bronze na OIMC 2025 // Regional bronze medalist at OIMC 2025
   <li>🥉Medalhista regional de bronze na OBT 2026 // Regional bronze medalist at OBT 2026
