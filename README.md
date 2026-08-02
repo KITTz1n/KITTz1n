@@ -8,13 +8,14 @@
 <ul>
   <li>📖Um Dev em busca conhecimento. // A Dev in search of knowledge.
   <li>😁Tenho 17 anos. // I'm 17 years old.
-  <li>🏥Tech Lead e Designer da HealSync. // Technical Leader and Designer at HealSync. </li>
+  <li>🏥Tech Lead e Designer da HealSync. // Technical Leader and Designer at HealSync.
   <li>🥉Medalhista regional de bronze na OISMF 2025 // Regional bronze medalist at OISMF 2025
-  <li>🥉Medalhista regional de bronze na OIMC 2025 // Regional bronze medalist at OIMC 2025
-  <li>🥉Medalhista regional de bronze na OBT 2026 // Regional bronze medalist at OBT 2026
+  <li>🥉Medalhista nacional de bronze na OIMC 2025 // Nacional bronze medalist at OIMC 2025
   <li>🥉Medalhista nacional de bronze na OISMF 2025 // Nacional bronze medalist at OISMF 2025
+  <li>🥉Medalhista nacional de bronze na OBT 2026 // Nacional bronze medalist at OBT 2026
+  <li>🥈Medalhista nacional de prata na TANGRAM 2026 // Nacional silver medalist at TANGRAM 2026
   <li>😲Desde meus 8 anos queria ser programador. // Since I was 8 years old I wanted to be a programmer.
-  <li>🎮Meu primeiro jogo foi lançado quando eu tinha apenas 13 anos de idade. // </li> My first game was released when I was only 13 years old.
+  <li>🎮Meu primeiro jogo foi lançado quando eu tinha apenas 13 anos de idade. // My first game was released when I was only 13 years old.
 </ul>
 
 ###
